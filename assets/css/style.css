@@ -22,3 +22,9 @@ body{
 #bold{
   font-weight: bold;
 }
+@media only screen and (max-width: 480px){
+  .knockout{
+    margin: 0 auto;
+    width: 400px;
+  }
+}
